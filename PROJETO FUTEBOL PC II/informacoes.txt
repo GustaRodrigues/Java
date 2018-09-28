@@ -1,0 +1,21 @@
+salve salve
+https://pt.wikipedia.org/wiki/P%C3%AAnalti
+Informações sobre o projeto desenvolvido na unidade 211 - ETEC da Zona Leste.
+
+---------------Integrantes-----------------
+
+1. Antonio Lucas Barbosa Ferreira
+2. Bruno Fineza Stein de Amorim
+3. Douglas Almeida de Oliveira
+4. Guilherme Ramos Serra
+5. Gustavo Roberto do Nascimento Rodrigues
+6. Gustavo Silva Cotias
+ 
+---------------Sobre o Projeto--------------
+
+O projeto de PC (Programação de Computadores) como foi pedido pelo nosso professor, foi possível realizar diversas funcionalidades
+e aprofundar nosso conhecimento tanto na área de programação em Java, como também em UML (Unified Modeling Language) e Banco de Dados. 
+O projeto elaborado foi de extrema gratificancia para nós, pois conseguimos trabalhar em conjunto, adquirindo mais conhecimento. 
+
+
+
